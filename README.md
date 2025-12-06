@@ -3,7 +3,7 @@
     <a href="https://openreview.net/forum?id=vxUiVJp2eM">
         <img src="https://img.shields.io/badge/Paper-OpenReview-blue.svg"/>
     </a>
-    <a href="https://youtube.com/">
+    <a href="https://youtu.be/Ma6gllyJK-U">
         <img src="https://img.shields.io/badge/Video-Youtube-red"/>
     </a>   
 </p>
