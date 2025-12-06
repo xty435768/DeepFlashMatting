@@ -1,0 +1,5 @@
+einops
+transformers
+opencv-python
+mediapy
+kornia
